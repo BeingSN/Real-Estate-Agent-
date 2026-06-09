@@ -1,0 +1,11 @@
+backend/.env
+frontend/.env
+backend/data/chat_history.json
+__pycache__/
+*.pyc
+*.pyo
+.env
+node_modules/
+dist/
+.DS_Store
+venv/
